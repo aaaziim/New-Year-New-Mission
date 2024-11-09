@@ -70,6 +70,43 @@ font-size: 88px;
     font-style: normal;
     font-size: 48px;
 }
-.discountImage{
+
+
+/* welcomePartyBanner */
+
+.welcomeParty{
+    margin-top: 50px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../resources/Vectorrr.png");
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    background-repeat: no-repeat;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 16px;
+}
+.welcomePartyHead{
+    font-size: 64px;
     
+    margin-bottom: 5px;
+}
+.welcomePartyDescription{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+.part-btn{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 18px;
+    background: none;
+    color: #fff;
+    margin-top: 20px;
 }
