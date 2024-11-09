@@ -190,6 +190,7 @@ font-size: 88px;
     max-height: 400px;
 }
 
+
 .off50{
 position: absolute;
 right: 600px;
@@ -206,7 +207,9 @@ right: 600px;
    gap: 20;
    margin: 10px 0px;
 }
-
+.giftImageGroup img:hover{
+   opacity: .5;
+}
 /* newsletterDescription */
 
 .newsletterDescription{
