@@ -139,3 +139,61 @@ font-size: 88px;
     font-size: 20px;
     font-weight: 700;
 }
+/* bestOffer */
+
+.bestOffer{
+    margin: 100px 0px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.offerTitle{
+    color: #FF0000;
+    font-size: 24px;
+}
+.offerSubTitle{
+    font-size: 48px;
+    color: #000;
+    font-weight: 700;
+}
+.offerDescription{
+    font-size: 20px;
+    color: #070211;
+}
+
+.offerImage{
+    border: 15px solid #FF0000;
+    border-radius: 50%;
+    padding: 20px;
+}
+
+/* holidaySales */
+
+.holidaySales{
+    text-align: center;
+}
+.salesSubHead{
+    font-size: 24px;
+}
+.salesHead{
+    font-size: 72px;
+}
+.holidayImageGroup{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.holidayImageGroup img{
+    max-width: 500px;
+    max-height: 400px;
+}
+
+.off50{
+position: absolute;
+right: 600px;
+}
+.rect{
+    margin-top: -30px;
+}
