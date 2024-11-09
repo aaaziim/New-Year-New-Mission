@@ -206,3 +206,29 @@ right: 600px;
    gap: 20;
    margin: 10px 0px;
 }
+
+/* newsletterDescription */
+
+.newsletterDescription{
+    font-size: 18px;
+    font-weight: 400;
+    color: #070211;
+}
+
+input{
+    border: none;
+    padding: 15px;
+    border-radius: 50px 0px 0px 50px;
+    font-size: 18px;
+} 
+
+.subscribe-btn{
+    color: #fff;
+    font-size: 18px;
+    font-weight: 300;
+    background-color: #FF0000;
+    border: none;
+    padding: 15px;
+    border-radius: 0px 50px 50px 0px;
+    margin-left: -20px;
+}
