@@ -40,3 +40,36 @@ body{
     font-size: 72px;
     margin: 2px;
 }
+
+/*65%  off */
+
+.off{
+    text-align: center;
+}
+.sectionTitle{
+color: #FF0000;
+font-family: "Inter", sans-serif;
+font-optical-sizing: auto;
+font-weight: 700;
+font-style: normal;
+font-size: 88px;
+}
+.sectionSubTitle{
+    color: #FF0000 ;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+}
+.sectionCategory{
+    color: #070211 ;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 48px;
+}
+.discountImage{
+    
+}
